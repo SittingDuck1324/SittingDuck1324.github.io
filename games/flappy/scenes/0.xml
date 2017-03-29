@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="2" desc="" eventsnippetid="0" extheight="672" extwidth="864" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="85.0" height="608" id="0" name="Level 1" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="800">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <background blendMode="normal" customScrollFactor="false" id="1" locked="true" name="Universe" opacity="100" order="2" rid="2" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="0,255,0" id="2" locked="false" name="Layer 2" opacity="100" order="1" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Universe" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="3" c="false" group="3" id="4" name="Stencyl Book Snake 3" sx="1.0" sy="1.0" x="10" y="518" z="2"/>
+        <actor a="0.0" aid="4" c="false" group="3" id="0" name="Stencyl Book Croc 4" sx="1.0" sy="1.0" x="319" y="187" z="0"/>
+        <actor a="0.0" aid="5" c="false" group="3" id="4" name="Stencyl Book Snake 5" sx="1.0" sy="1.0" x="732" y="520" z="2"/>
+    </actors>
+    <snippets/>
+    <terrain>
+        <p pts="4,96.0,0.0,96.0,16.0,0.0,16.0,0.0,0.0" x="320.0" y="544.0"/>
+        <p pts="4,0.0,16.0,0.0,0.0,96.0,0.0,96.0,16.0" x="320.0" y="512.0"/>
+        <p pts="4,0.0,16.0,0.0,0.0,800.0,0.0,800.0,16.0" x="0.0" y="576.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>
